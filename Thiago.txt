@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Ola mundo
 Iaê, vai chega o leitor da bio ou nao
-=======
 Ola conflito
->>>>>>> 1dcd3500e5bfade6fb3517a6ffc79d19d885fa01
